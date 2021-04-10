@@ -1,4 +1,4 @@
-# Vault [6]
+## Data Science
 
 *Tom Bresee, Spring 2021*
 
