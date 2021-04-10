@@ -8,7 +8,7 @@ A data visualization curriculum of interactive notebooks, using [Vega-Lite](http
 
 1. Introduction to Vega-Lite / Altair<br/>
    <small>
-     [Jupyter Book](https://uwdata.github.io/visualization-curriculum/altair_introduction.html) |
+     [Jupyter Book](https://tombresee.github.io/yamarashi/altair_introduction.html) |
      [Jupyter](https://github.com/uwdata/visualization-curriculum/blob/master/altair_introduction.ipynb) |
      [Colab](https://colab.research.google.com/github/uwdata/visualization-curriculum/blob/master/altair_introduction.ipynb) |
      [Nextjournal](https://github.nextjournal.com/uwdata/visualization-curriculum/blob/master/altair_introduction.ipynb) |
