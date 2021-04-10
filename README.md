@@ -1,6 +1,6 @@
-# A Whirlwind Tour of Python
+# Yamarashi Vault
 
-*Jake VanderPlas, Summer 2016*
+*Tom Bresee, Spring 2021
 
 This repository contains the Jupyter Notebooks behind my O'Reilly report,
 [*A Whirlwind Tour of Python*](http://www.oreilly.com/programming/free/a-whirlwind-tour-of-python.csp) (free [100-page pdf](http://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf)).
